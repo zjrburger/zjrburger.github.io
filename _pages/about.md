@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my webpage!
+Welcome to my webpage! I am a PhD candidate in the Department of Linguistics and Cognitive Science at the University of Delaware, where I also serve as Lab Manager of the Experimental Psycholinguistics Lab and President of the Graduate Student Government. My research has a focus on the neuroscience of spoken language. I use EEG to investigate quetions about speech perception and production, with my dissertation examining the neural underponnings of morphological encoding during speech production.

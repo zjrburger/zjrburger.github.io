@@ -3,31 +3,26 @@ cv:
   headline: PhD Candidate in Linguistics
   location: Newark, DE
   email: jburger@udel.edu
-  social_networks:
-    - network: LinkedIn
-      username: jacob-burger-linguist
 
   sections:
     Education:
       - institution: University of Delaware
         area: Linguistics
         degree: PhD
-        start_date: 2022-09
+        start_date: 2022
         end_date: present
         location: Newark, DE
         highlights:
           - "Advisor: Dr. Arild Hestvik"
-          - "GPA: 4.0"
           - "Committee: Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)"
 
       - institution: Georgetown University
         area: Linguistics
         degree: BA
-        start_date: 2018-09
-        end_date: 2022-05
+        start_date: 2018
+        end_date: 2022
         location: Washington, DC
         highlights:
-          - "GPA: 3.7"
           - Minor in Government
           - Minor in German
 

@@ -1,165 +1,177 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Jacob Burger
-    - name: Email
-      value: jburger@udel.edu
-    - name: Location
-      value: Newark, DE
+cv:
+  name: Jacob Burger
+  label: PhD Candidate in Linguistics
+  email: zjrburger [at] gmail.com
+  location: Newark, DE
+  image: ""
+  summary: ""
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Linguistics
-      institution: University of Delaware, Newark, DE
-      year: 2022 - present
-      description:
-        - "Advisor: Dr. Arild Hestvik"
-        - "GPA: 4.0"
-        - "Committee: Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)"
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
 
-    - title: BA in Linguistics
-      institution: Georgetown University, Washington, DC
-      year: 2018 - 2022
-      description:
-        - "GPA: 3.7"
-        - Minor in Government
-        - Minor in German
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Lab Manager
-      institution: Experimental Psycholinguistics Lab, University of Delaware, Newark, DE
-      year: 2024 - present
-      description:
-        - "PI: Dr. Arild Hestvik"
-    - title: Research Assistant
-      institution: Experimental Psycholinguistics Lab, University of Delaware, Newark, DE
-      year: 2023 - present
-      description:
-        - "PI: Dr. Arild Hestvik"
-    - title: Research Assistant
-      institution: Dept. of Linguistics, Georgetown University, Washington, DC
-      year: 2020 - 2021
-      description:
-        - "Advisor: Dr. Nick Mararac"
-        - "Project: U.S. Military Veterans in Higher Education"
+  sections:
+    Education:
+      - institution: University of Delaware
+        location: Newark, DE
+        url: ""
+        area: Linguistics
+        studyType: PhD
+        start_date: 2022
+        end_date: 2027
+        courses: ""
+        highlights: 
+          - "Committee:" Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Introduction to Cognitive Science, Instructor of Record
-      institution: University of Delaware
-      year: 2024 - 2025
-    - title: Introduction to Cognitive Science, Teaching Assistant
-      institution: University of Delaware
-      year: 2023 - 2026
-    - title: Introduction to Linguistics, Teaching Assistant
-      institution: University of Delaware
-      year: 2023
-    - title: Science of Language, Teaching Assistant
-      institution: University of Delaware
-      year: 2022
-    - title: Summer High School Programs, Mentor
-      institution: Georgetown University
-      year: 2021
+      - institution: Georgetown University
+        location: Washington, DC
+        area: Linguistics
+        studyType: BA
+        start_date: 2018
+        end_date: 2022
+        highlights:
+          - Minor in Government
+          - Minor in German
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Graduate Student Government President, Graduate Assistantship
-      institution: University of Delaware
-      year: 2026 - present
-    - title: Summer Associate
-      institution: Educational Testing Service
-      year: 2023
-    - title: AI/ML Engineer Intern
-      institution: SoKat Consulting, LLC
-      year: 2022
-    - title: Enumerator
-      institution: US Census Bureau
-      year: 2020
+    Experience:
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        highlights:
+          - Relativity
+          - Description 2.
 
-- title: Outreach & Professional Development
-  type: time_table
-  contents:
-    - title: Graduate Student Government, President
-      institution: University of Delaware
-      year: 2026 - present
-    - title: Jewish Graduate Organization, President and Co-Founder
-      institution: University of Delaware
-      year: 2025 - 2026
-    - title: Graduate Student Government, Senator for Linguistics and Cognitive Science
-      institution: University of Delaware
-      year: 2024 - 2026
-    - title: Jewish Life, Member
-      institution: Georgetown University
-      year: 2018 - 2022
-    - title: Georgetown Gaming, Captain of the Super Smash Brothers Team
-      institution: Georgetown University
-      year: 2020 - 2021
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
+        highlights:
+          - Description 1.
+          - Description 2.
 
-- title: Awards, Fellowships & Grants
-  type: time_table
-  contents:
-    - year: 2025
-      items:
-        - "Travel Award, UD Dept of Linguistics and Cognitive Science — $600"
-        - "Travel Award, UD Dept of Linguistics and Cognitive Science — $500"
-    - year: 2024
-      items:
-        - "Summer Research Award, UD Dept of Linguistics and Cognitive Science — $3,600"
-    - year: 2023
-      items:
-        - "Summer Research Award, UD Dept of Linguistics and Cognitive Science — $2,400"
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
 
-- title: Publications
-  type: nested_list
-  contents:
-    - title: Published
-      items:
-        - "Asami, D., Han, C., <strong>Burger, J.</strong>, Dunlop, D., Lu, Y., Morad, E., Zhao, C., Hestvik, A. (2025). 'Negation-blind' N400 effect disappears when lexical priming is Controlled. <i>Experiments in Linguistic Meaning</i>, 3, 19–31."
-    - title: In Review
-      items:
-        - "<strong>Burger, J.</strong> and Bruening, B. (2026). Unaccusative Applicatives, Nominal Licensing, and a Hybrid Theory of Case. <i>Linguistic Inquiry</i> (under review)."
-    - title: In Preparation
-      items:
-        - "<strong>Burger, J.</strong>, Han, C., Idsardi, W., Hestvik, A. Spectrally Rotated Speech Reveals Evidence for Underspecification in English."
-        - "<strong>Burger, J.</strong> and Earle, S. Chronobiology Modulates Latency of Auditory ERP Waves."
-        - "<strong>Burger, J.</strong> and Hestvik, A. Production and Perception Asymmetries in Phonological and Morphosyntactic Processing Decoded with Scalp EEG."
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
 
-- title: Conference Presentations
-  type: time_table
-  contents:
-    - title: "Separating acoustics from phonology with rotated speech"
-      institution: "Poster, Society of Neurobiology of Language 17th Annual Meeting (SNL 2025), Washington, DC"
-      year: Sept 2025
-      description:
-        - "Burger, J., Hestvik, A., Idsardi, W., Han, C., Knox, A., Hill, T."
-    - title: "Neural Investigation of Underspecification with Rotated Speech"
-      institution: "Oral presentation, 13th North American Phonology Conference (NAPhCxiii), Montreal, Quebec"
-      year: May 2025
-      description:
-        - "Burger, J., Hestvik, A., Han, C., Hill, T., Idsardi, W., Knox, A., Alromihi, A."
-    - title: "YODA: English as SOV preserves N400 evidence for 2-stage negation processing"
-      institution: "Poster, 38th Annual Conference on Human Sentence Processing (HSP 2025), College Park, MD"
-      year: Mar 2025
-      description:
-        - "Alromihi, A., Burger, J., Knox, A., Hill, T., Hestvik, A."
-    - title: "'Negation-blind' N400 effect disappears when lexical priming is controlled"
-      institution: "Poster, 3rd Experiments in Linguistic Meaning Conference (ELM3), Philadelphia, PA"
-      year: Jun 2024
-      description:
-        - "Asami, D., Han, C., Burger, J., Dunlop, D., Lu, Y., Morad, E., Zhao, C., Hestvik, A."
-    - title: "'Negation-blind' N400 effect disappears when lexical priming is controlled"
-      institution: "Poster, 37th Annual Conference on Human Sentence Processing (HSP 2024), Ann Arbor, MI"
-      year: May 2024
-      description:
-        - "Asami, D., Han, C., Burger, J., Dunlop, D., Lu, Y., Morad, E., Silva, N., Zhao, C., Hestvik, A."
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
 
-- title: Professional Memberships
-  type: list
-  contents:
-    - Society for the Neurobiology of Language
+    Volunteer:
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        highlights:
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
+
+    Awards:
+      - title: Nobel Prize in Physics
+        authors:
+          - "Royal Swedish Academy of Sciences"
+        date: 1921-11-01
+        awarder: Royal Swedish Academy of Sciences
+        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+      - title: Max Planck Medal
+        authors:
+          - "German Physical Society"
+        date: 2029
+        awarder: German Physical Society
+        summary: Awarded for outstanding scientific achievement
+
+    Publications:
+      - title: Zur Elektrodynamik bewegter Körper
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-06-30
+        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+
+      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-03-18
+        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+
+      - title: Die Grundlage der allgemeinen Relativitätstheorie
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1916-03-20
+        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+    Skills:
+      - name: Physics
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Languages:
+      - name: English
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    #Certificates:
+      #- name: Machine Learning
+      #  date: 2018-01-01
+      #  issuer: Stanford University
+      #  icon: fa-solid fa-location-dot
+
+    #Projects:
+    #  - name: Quantum Computing
+    #    summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #    highlights:
+    #      - Quantum Teleportation
+    #      - Quantum Cryptography
+    #    start_date: 2018-01-01
+    #    end_date: 2018-01-01
+
+    References:
+      - name: Professor John Doe
+        icon: fa-solid fa-laptop
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+      - name: Professor Jane Smith
+        icon: fa-solid fa-thumbtack
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.

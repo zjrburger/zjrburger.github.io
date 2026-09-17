@@ -32,7 +32,7 @@ cv:
         end_date: 2027
         courses: ""
         highlights: 
-          - "Committee Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)"
+          - "Committee: Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)"
 
       - institution: Georgetown University
         location: Washington, DC
@@ -67,7 +67,6 @@ cv:
         start_date: 2025
         end_date: present
         highlights:
-          - 
 
       - company: Kaiser Wilhelm Institute for Physics
         position: Director

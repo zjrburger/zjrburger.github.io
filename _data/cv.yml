@@ -1,252 +1,165 @@
-cv:
-  name: Jacob Burger
-  label: PhD Candidate in Linguistics
-  email: jburger@udel.edu
-  location: Newark, DE
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Jacob Burger
+    - name: Email
+      value: jburger@udel.edu
+    - name: Location
+      value: Newark, DE
 
-  social_networks:
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Linguistics
+      institution: University of Delaware, Newark, DE
+      year: 2022 - present
+      description:
+        - "Advisor: Dr. Arild Hestvik"
+        - "GPA: 4.0"
+        - "Committee: Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)"
 
-  address:
+    - title: BA in Linguistics
+      institution: Georgetown University, Washington, DC
+      year: 2018 - 2022
+      description:
+        - "GPA: 3.7"
+        - Minor in Government
+        - Minor in German
 
-  sections:
-    Education:
-      - institution: University of Delaware
-        area: Linguistics
-        degree: PhD
-        start_date: 2022
-        end_date: 2027
-        location: Newark, DE
-        highlights:
-          - "Advisor: Dr. Arild Hestvik"
-          - "Committee: Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)"
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Lab Manager
+      institution: Experimental Psycholinguistics Lab, University of Delaware, Newark, DE
+      year: 2024 - present
+      description:
+        - "PI: Dr. Arild Hestvik"
+    - title: Research Assistant
+      institution: Experimental Psycholinguistics Lab, University of Delaware, Newark, DE
+      year: 2023 - present
+      description:
+        - "PI: Dr. Arild Hestvik"
+    - title: Research Assistant
+      institution: Dept. of Linguistics, Georgetown University, Washington, DC
+      year: 2020 - 2021
+      description:
+        - "Advisor: Dr. Nick Mararac"
+        - "Project: U.S. Military Veterans in Higher Education"
 
-      - institution: Georgetown University
-        area: Linguistics
-        degree: BA
-        start_date: 2018
-        end_date: 2022
-        location: Washington, DC
-        highlights:
-          - Minor in Government
-          - Minor in German
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Introduction to Cognitive Science, Instructor of Record
+      institution: University of Delaware
+      year: 2024 - 2025
+    - title: Introduction to Cognitive Science, Teaching Assistant
+      institution: University of Delaware
+      year: 2023 - 2026
+    - title: Introduction to Linguistics, Teaching Assistant
+      institution: University of Delaware
+      year: 2023
+    - title: Science of Language, Teaching Assistant
+      institution: University of Delaware
+      year: 2022
+    - title: Summer High School Programs, Mentor
+      institution: Georgetown University
+      year: 2021
 
-    Research Experience:
-      - company: University of Delaware — Experimental Psycholinguistics Lab
-        position: Lab Manager
-        location: Newark, DE
-        start_date: 2024
-        end_date: present
-        summary: "PI: Dr. Arild Hestvik"
-        highlights:
-          - Lab Manager (2024-present)
-          - Research Assistant (2023-present)
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Graduate Student Government President, Graduate Assistantship
+      institution: University of Delaware
+      year: 2026 - present
+    - title: Summer Associate
+      institution: Educational Testing Service
+      year: 2023
+    - title: AI/ML Engineer Intern
+      institution: SoKat Consulting, LLC
+      year: 2022
+    - title: Enumerator
+      institution: US Census Bureau
+      year: 2020
 
-      - company: Georgetown University — Dept of Linguistics
-        position: Research Assistant
-        location: Washington, DC
-        start_date: 2020-01
-        end_date: 2021-12
-        summary: "Advisor: Dr. Nick Mararac"
-        highlights:
-          - "Project: U.S. Military Veterans in Higher Education"
+- title: Outreach & Professional Development
+  type: time_table
+  contents:
+    - title: Graduate Student Government, President
+      institution: University of Delaware
+      year: 2026 - present
+    - title: Jewish Graduate Organization, President and Co-Founder
+      institution: University of Delaware
+      year: 2025 - 2026
+    - title: Graduate Student Government, Senator for Linguistics and Cognitive Science
+      institution: University of Delaware
+      year: 2024 - 2026
+    - title: Jewish Life, Member
+      institution: Georgetown University
+      year: 2018 - 2022
+    - title: Georgetown Gaming, Captain of the Super Smash Brothers Team
+      institution: Georgetown University
+      year: 2020 - 2021
 
-    Teaching Experience:
-      - company: University of Delaware
-        position: "Introduction to Cognitive Science — Instructor of Record"
-        location: Newark, DE
-        start_date: 2024-01
-        end_date: 2025-12
+- title: Awards, Fellowships & Grants
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Travel Award, UD Dept of Linguistics and Cognitive Science — $600"
+        - "Travel Award, UD Dept of Linguistics and Cognitive Science — $500"
+    - year: 2024
+      items:
+        - "Summer Research Award, UD Dept of Linguistics and Cognitive Science — $3,600"
+    - year: 2023
+      items:
+        - "Summer Research Award, UD Dept of Linguistics and Cognitive Science — $2,400"
 
-      - company: University of Delaware
-        position: "Introduction to Cognitive Science — Teaching Assistant"
-        location: Newark, DE
-        start_date: 2023-01
-        end_date: 2026-05
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Published
+      items:
+        - "Asami, D., Han, C., <strong>Burger, J.</strong>, Dunlop, D., Lu, Y., Morad, E., Zhao, C., Hestvik, A. (2025). 'Negation-blind' N400 effect disappears when lexical priming is Controlled. <i>Experiments in Linguistic Meaning</i>, 3, 19–31."
+    - title: In Review
+      items:
+        - "<strong>Burger, J.</strong> and Bruening, B. (2026). Unaccusative Applicatives, Nominal Licensing, and a Hybrid Theory of Case. <i>Linguistic Inquiry</i> (under review)."
+    - title: In Preparation
+      items:
+        - "<strong>Burger, J.</strong>, Han, C., Idsardi, W., Hestvik, A. Spectrally Rotated Speech Reveals Evidence for Underspecification in English."
+        - "<strong>Burger, J.</strong> and Earle, S. Chronobiology Modulates Latency of Auditory ERP Waves."
+        - "<strong>Burger, J.</strong> and Hestvik, A. Production and Perception Asymmetries in Phonological and Morphosyntactic Processing Decoded with Scalp EEG."
 
-      - company: University of Delaware
-        position: "Introduction to Linguistics — Teaching Assistant"
-        location: Newark, DE
-        date: "2023"
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - title: "Separating acoustics from phonology with rotated speech"
+      institution: "Poster, Society of Neurobiology of Language 17th Annual Meeting (SNL 2025), Washington, DC"
+      year: Sept 2025
+      description:
+        - "Burger, J., Hestvik, A., Idsardi, W., Han, C., Knox, A., Hill, T."
+    - title: "Neural Investigation of Underspecification with Rotated Speech"
+      institution: "Oral presentation, 13th North American Phonology Conference (NAPhCxiii), Montreal, Quebec"
+      year: May 2025
+      description:
+        - "Burger, J., Hestvik, A., Han, C., Hill, T., Idsardi, W., Knox, A., Alromihi, A."
+    - title: "YODA: English as SOV preserves N400 evidence for 2-stage negation processing"
+      institution: "Poster, 38th Annual Conference on Human Sentence Processing (HSP 2025), College Park, MD"
+      year: Mar 2025
+      description:
+        - "Alromihi, A., Burger, J., Knox, A., Hill, T., Hestvik, A."
+    - title: "'Negation-blind' N400 effect disappears when lexical priming is controlled"
+      institution: "Poster, 3rd Experiments in Linguistic Meaning Conference (ELM3), Philadelphia, PA"
+      year: Jun 2024
+      description:
+        - "Asami, D., Han, C., Burger, J., Dunlop, D., Lu, Y., Morad, E., Zhao, C., Hestvik, A."
+    - title: "'Negation-blind' N400 effect disappears when lexical priming is controlled"
+      institution: "Poster, 37th Annual Conference on Human Sentence Processing (HSP 2024), Ann Arbor, MI"
+      year: May 2024
+      description:
+        - "Asami, D., Han, C., Burger, J., Dunlop, D., Lu, Y., Morad, E., Silva, N., Zhao, C., Hestvik, A."
 
-      - company: University of Delaware
-        position: "Science of Language — Teaching Assistant"
-        location: Newark, DE
-        date: "2022"
-
-      - company: Georgetown University
-        position: "Summer High School Programs — Mentor"
-        location: Washington, DC
-        date: "2021"
-
-    Professional Experience:
-      - company: University of Delaware
-        position: "Graduate Student Government President — Graduate Assistantship"
-        location: Newark, DE
-        start_date: 2026-01
-        end_date: present
-
-      - company: Educational Testing Service
-        position: Summer Associate
-        date: "2023"
-
-      - company: SoKat Consulting, LLC
-        position: AI/ML Engineer Intern
-        date: "2022"
-
-      - company: US Census Bureau
-        position: Enumerator
-        date: "2020"
-
-    Outreach & Professional Development:
-      - company: University of Delaware
-        position: "Graduate Student Government — President"
-        location: Newark, DE
-        start_date: 2026-01
-        end_date: present
-
-      - company: University of Delaware
-        position: "Jewish Graduate Organization — President and Co-Founder"
-        location: Newark, DE
-        start_date: 2025-01
-        end_date: 2026-12
-
-      - company: University of Delaware
-        position: "Graduate Student Government — Senator for Linguistics and Cognitive Science"
-        location: Newark, DE
-        start_date: 2024-01
-        end_date: 2026-12
-
-      - company: Georgetown University
-        position: "Jewish Life — Member"
-        location: Washington, DC
-        start_date: 2018-09
-        end_date: 2022-05
-
-      - company: Georgetown University
-        position: "Georgetown Gaming — Captain of the Super Smash Brothers Team"
-        location: Washington, DC
-        start_date: 2020-01
-        end_date: 2021-12
-
-    Awards, Fellowships & Grants:
-      - name: Travel Award
-        date: "2025"
-        summary: "UD Dept of Linguistics and Cognitive Science — $600"
-
-      - name: Travel Award
-        date: "2025"
-        summary: "UD Dept of Linguistics and Cognitive Science — $500"
-
-      - name: Summer Research Award
-        date: "2024"
-        summary: "UD Dept of Linguistics and Cognitive Science — $3,600"
-
-      - name: Summer Research Award
-        date: "2023"
-        summary: "UD Dept of Linguistics and Cognitive Science — $2,400"
-
-    Publications:
-      - title: "'Negation-blind' N400 effect disappears when lexical priming is Controlled"
-        authors:
-          - D. Asami
-          - C. Han
-          - '*J. Burger*'
-          - D. Dunlop
-          - Y. Lu
-          - E. Morad
-          - C. Zhao
-          - A. Hestvik
-        journal: "Experiments in Linguistic Meaning, 3, 19–31"
-        url: https://doi.org/10.3765/elm.3.5800
-        date: "2025"
-
-      - title: "Unaccusative Applicatives, Nominal Licensing, and a Hybrid Theory of Case"
-        authors:
-          - '*J. Burger*'
-          - B. Bruening
-        journal: "Linguistic Inquiry (under review)"
-        date: "2026"
-
-      - title: "Spectrally Rotated Speech Reveals Evidence for Underspecification in English"
-        authors:
-          - '*J. Burger*'
-          - C. Han
-          - W. Idsardi
-          - A. Hestvik
-        journal: "In preparation"
-
-      - title: "Chronobiology Modulates Latency of Auditory ERP Waves"
-        authors:
-          - '*J. Burger*'
-          - S. Earle
-        journal: "In preparation"
-
-      - title: "Production and Perception Asymmetries in Phonological and Morphosyntactic Processing Decoded with Scalp EEG"
-        authors:
-          - '*J. Burger*'
-          - A. Hestvik
-        journal: "In preparation"
-
-    Conference Presentations:
-      - title: "Separating acoustics from phonology with rotated speech"
-        authors:
-          - '*J. Burger*'
-          - A. Hestvik
-          - W. Idsardi
-          - C. Han
-          - A. Knox
-          - T. Hill
-        journal: "Poster, Society of Neurobiology of Language 17th Annual Meeting (SNL 2025), Washington, DC"
-        date: "2025-09"
-
-      - title: "Neural Investigation of Underspecification with Rotated Speech"
-        authors:
-          - '*J. Burger*'
-          - A. Hestvik
-          - C. Han
-          - T. Hill
-          - W. Idsardi
-          - A. Knox
-          - A. Alromihi
-        journal: "Oral presentation, 13th North American Phonology Conference (NAPhCxiii), Montreal, Quebec"
-        date: "2025-05"
-
-      - title: "YODA: English as SOV preserves N400 evidence for 2-stage negation processing"
-        authors:
-          - A. Alromihi
-          - '*J. Burger*'
-          - A. Knox
-          - T. Hill
-          - A. Hestvik
-        journal: "Poster, 38th Annual Conference on Human Sentence Processing (HSP 2025), College Park, MD"
-        date: "2025-03"
-
-      - title: "'Negation-blind' N400 effect disappears when lexical priming is controlled"
-        authors:
-          - D. Asami
-          - C. Han
-          - '*J. Burger*'
-          - D. Dunlop
-          - Y. Lu
-          - E. Morad
-          - C. Zhao
-          - A. Hestvik
-        journal: "Poster, 3rd Experiments in Linguistic Meaning Conference (ELM3), Philadelphia, PA"
-        date: "2024-06"
-
-      - title: "'Negation-blind' N400 effect disappears when lexical priming is controlled"
-        authors:
-          - D. Asami
-          - C. Han
-          - '*J. Burger*'
-          - D. Dunlop
-          - Y. Lu
-          - E. Morad
-          - N. Silva
-          - C. Zhao
-          - A. Hestvik
-        journal: "Poster, 37th Annual Conference on Human Sentence Processing (HSP 2024), Ann Arbor, MI"
-        date: "2024-05"
-
-    Professional Memberships:
-      - name: Society for the Neurobiology of Language
+- title: Professional Memberships
+  type: list
+  contents:
+    - Society for the Neurobiology of Language

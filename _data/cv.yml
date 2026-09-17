@@ -1,8 +1,12 @@
 cv:
   name: Jacob Burger
   label: PhD Candidate in Linguistics
-  location: Newark, DE
   email: jburger@udel.edu
+  location: Newark, DE
+
+  social_networks:
+
+  address:
 
   sections:
     Education:

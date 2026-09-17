@@ -30,10 +30,9 @@ cv:
         studyType: PhD
         start_date: 2022
         end_date: 2027
-        score: 4.0
         courses: ""
         highlights: 
-        Advisor: Dr. Arild Hestvik
+        Committee: Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)
 
       - institution: Georgetown University
         location: Washington, DC

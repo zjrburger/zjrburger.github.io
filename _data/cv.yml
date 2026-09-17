@@ -32,7 +32,7 @@ cv:
         end_date: 2027
         courses: ""
         highlights: 
-          - Committee Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)
+          - "Committee: Dr. Arild Hestvik (Chair), Dr. Alon Hafri, Dr. F. Sayako Earle, Dr. William Idsardi (University of Maryland)"
 
       - institution: Georgetown University
         location: Washington, DC
@@ -45,24 +45,29 @@ cv:
           - Minor in German
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Experimental Psycholinguistics Lab - University of Delaware
+        position: Lab Manager
+        location: Newark, DE
+        start_date: 2024
+        end_date: present
+        summary: 
         highlights:
-          - Relativity
-          - Description 2.
+        
+      - company: Experimental Psycholinguistics Lab - University of Delaware
+        position: Research Assistant
+        location: Newark, DE
+        start_date: 2023
+        end_date: present
+        summary: 
+        highlights:
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Memory and Perception of Speech Lab
+        position: Research Assistant
+        location: Newark, DE
+        start_date: 2025
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - 
 
       - company: Kaiser Wilhelm Institute for Physics
         position: Director

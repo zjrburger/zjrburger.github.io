@@ -30,9 +30,10 @@ cv:
         studyType: PhD
         start_date: 2022
         end_date: 2027
-        score: ""
+        score: 4.0
         courses: ""
-        highlights: ""
+        highlights: 
+          - Advisor: Dr. Arild Hestvik
 
       - institution: Georgetown University
         location: Washington, DC
@@ -41,8 +42,8 @@ cv:
         start_date: 2018
         end_date: 2022
         highlights:
-          - Description 1.
-          - Description 2.
+          - Minor in Government
+          - Minor in German
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
